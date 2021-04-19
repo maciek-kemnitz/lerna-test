@@ -1,6 +1,6 @@
 {
   "name": "@maciek-ipsos/phoenix",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
   "author": "maciek <maciek.kemnitz@gmail.com>",
@@ -23,10 +23,10 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@maciek-ipsos/phoenix-button": "^2.0.0",
-    "@maciek-ipsos/phoenix-text": "^2.0.0"
+    "@maciek-ipsos/phoenix-button": "^2.0.2",
+    "@maciek-ipsos/phoenix-text": "^2.0.2"
   },
   "devDependencies": {
-    "@maciek-ipsos/phoenix-builder": "^2.0.0"
+    "@maciek-ipsos/phoenix-builder": "^2.0.2"
   }
 }
