@@ -10,50 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221969cc-2804-4a20-9785-6dbbbef648b4" name="Default Changelist" comment="fix deps">
-      <change afterPath="$PROJECT_DIR$/storybook-static/0.1db6407b6f251cb99757.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/0.9d6b63da.iframe.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/1.08e48cd2b295b33abac5.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/10.58b60afe35d013b05f26.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/11.7f35c06cd77f40a88403.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/11.7f35c06cd77f40a88403.manager.bundle.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/12.2f8d9cc3bdcfbb59dabf.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/4.45c64f2a.iframe.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/4.45c64f2a.iframe.bundle.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/4.45c64f2a.iframe.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/5.0b77f27f.iframe.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/5.4d5248d1e985d19512e5.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/5.4d5248d1e985d19512e5.manager.bundle.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/6.297d139ca80380169c9a.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/6.5b52c1e7.iframe.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/6.5b52c1e7.iframe.bundle.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/6.5b52c1e7.iframe.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/7.1dd6103d8c4adf231b89.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/7.67400b61.iframe.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/8.0c32e96f86b87a58d415.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/9.da52dd791e7234e0495a.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/iframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/main.7325eeb1d3b2a5622153.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/main.aff3a878.iframe.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/runtime~main.335986b66fb5bcf65138.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/runtime~main.f4027a40.iframe.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/vendors~main.03be9414.iframe.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/vendors~main.03be9414.iframe.bundle.js.LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/vendors~main.03be9414.iframe.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/vendors~main.0b7555aaeb5d052c07aa.manager.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storybook-static/vendors~main.0b7555aaeb5d052c07aa.manager.bundle.js.LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-builder/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-builder/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-button/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-button/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-text/__tests__/phoenix-text.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-text/lib/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-text/lib/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-text/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-text/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix/package-lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="221969cc-2804-4a20-9785-6dbbbef648b4" name="Default Changelist" comment="fix deps" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618815419549</updated>
       <workItem from="1618815420719" duration="7846000" />
-      <workItem from="1618830928919" duration="643000" />
+      <workItem from="1618830928919" duration="942000" />
     </task>
     <task id="LOCAL-00001" summary="add more things">
       <created>1618826343599</created>
@@ -138,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618829647568</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="fix deps">
+      <created>1618831636353</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618831636353</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,10 +128,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="fix deps" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="300" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1618829649225">
+    <state x="300" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1618831638221">
       <screen x="-260" y="-1057" width="1920" height="1057" />
     </state>
     <state x="300" y="-789" key="Vcs.Push.Dialog.v2/0.23.1440.825/-260.-1057.1920.1057@-260.-1057.1920.1057" timestamp="1618829649225" />
+    <state x="300" y="-789" key="Vcs.Push.Dialog.v2/0.23.1440.826/-260.-1057.1920.1057@-260.-1057.1920.1057" timestamp="1618831638221" />
     <state x="-160" y="-957" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618819891643">
       <screen x="-260" y="-1057" width="1920" height="1057" />
     </state>
