@@ -5,13 +5,15 @@
   "keywords": [],
   "author": "maciek <maciek.kemnitz@gmail.com>",
   "license": "ISC",
-  "main": "lib/phoenix.js",
-  "directories": {
+  "main": "dist/phoenix.cjs.js",
+  "module": "dist/phoenix.esm.js",
+  "src": "lib/phoenix.js",  "directories": {
     "lib": "lib",
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "lib",
+    "dist"
   ],
   "publishConfig": {
     "access": "public"
