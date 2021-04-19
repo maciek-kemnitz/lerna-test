@@ -10,24 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221969cc-2804-4a20-9785-6dbbbef648b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/packages/phoenix-button/lib/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/phoenix-text/lib/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    <list default="true" id="221969cc-2804-4a20-9785-6dbbbef648b4" name="Default Changelist" comment="add more things">
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-builder/lib/phoenix-builder.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-builder/lib/phoenix-builder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-builder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-builder/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-button/dist/phoenix-button.cjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-button/dist/phoenix-button.cjs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-button/dist/phoenix-button.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-button/dist/phoenix-button.esm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-button/docs/phoenix-button.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-button/docs/phoenix-button.stories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-button/lib/phoenix-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-button/lib/phoenix-button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-button/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-button/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-text/docs/phoenix-text.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-text/docs/phoenix-text.stories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-text/lib/phoenix-text.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-text/lib/phoenix-text.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix-text/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix-text/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/phoenix/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/phoenix/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +55,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618815419549</updated>
-      <workItem from="1618815420719" duration="5240000" />
+      <workItem from="1618815420719" duration="5627000" />
     </task>
+    <task id="LOCAL-00001" summary="add more things">
+      <created>1618826343599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618826343599</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,7 +81,15 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add more things" />
+    <option name="LAST_COMMIT_MESSAGE" value="add more things" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="300" y="-789" key="Vcs.Push.Dialog.v2" timestamp="1618826345137">
+      <screen x="-260" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="300" y="-789" key="Vcs.Push.Dialog.v2/0.23.1440.825/-260.-1057.1920.1057@-260.-1057.1920.1057" timestamp="1618826345137" />
     <state x="-160" y="-957" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1618819891643">
       <screen x="-260" y="-1057" width="1920" height="1057" />
     </state>
