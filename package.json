@@ -17,6 +17,7 @@
     "build": "lerna run build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "start-storybook -p 6006",
+    "bootstrap": "lerna exec npm install",
     "build-storybook": "build-storybook",
     "deploy": "npm run build-storybook && gh-pages -d storybook-static"
   },
