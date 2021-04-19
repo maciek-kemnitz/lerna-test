@@ -1,3 +1,3 @@
-import { Button } from '@cddev/phoenix-button';
-import { Text } from '@cddev/phoenix-text';
+import { Button } from '@maciek-ipsos/phoenix-button';
+import { Text } from '@maciek-ipsos/phoenix-text';
 export { Button, Text };
