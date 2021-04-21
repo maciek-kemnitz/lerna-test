@@ -1,9 +1,11 @@
 #!/usr/bin/env node
 const rollup = require('rollup');
 const path = require('path');
+const commonjs = require("@rollup/plugin-commonjs");
 const resolve = require('@rollup/plugin-node-resolve').default;
 const babel = require('@rollup/plugin-babel').default;
 const postcss = require('rollup-plugin-postcss');
+const typescript = require('@rollup/plugin-typescript');
 
 
 const currentWorkingPath = process.cwd();
@@ -13,6 +15,7 @@ const inputPath = path.join(currentWorkingPath, src);
 
 // Little workaround to get package name without scope
 const fileName = name.replace('@maciek-ipsos/', '');
+const extensions = ['.js', '.jsx', '.ts', '.tsx']
 
 
 // see below for details on the options
@@ -25,9 +28,12 @@ const inputOptions = {
       modules: true,
     }),
     resolve(),
+    commonjs(),
+    typescript(),
     babel({
       presets: ['@babel/preset-env', '@babel/preset-react'],
       babelHelpers: 'bundled',
+      extensions
     }),
   ],
 };

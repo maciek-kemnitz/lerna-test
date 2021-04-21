@@ -7,7 +7,7 @@
   "license": "ISC",
   "main": "dist/phoenix-button.cjs.js",
   "module": "dist/phoenix-button.esm.js",
-  "src": "lib/phoenix-button.js",
+  "src": "lib/phoenix-button.tsx",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -21,11 +21,13 @@
   },
   "scripts": {
     "build": "phoenix-builder",
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "tsc": "tsc"
   },
   "devDependencies": {
     "@maciek-ipsos/phoenix-builder": "^2.0.2",
-    "react": "^17.0.2"
+    "react": "^17.0.2",
+    "typescript": "^4.1.3"
   },
   "peerDependencies": {
     "react": "16.x"
